@@ -101,7 +101,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {loading && <h1>Loading...</h1>}
         {!loading && (
           <ul>
             {items.length &&
