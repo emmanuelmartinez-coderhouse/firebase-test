@@ -6,7 +6,6 @@ Este es un proyecto para el curso de ReactJS de CoderHouse.
 
 - Crear un sitio de ecommerce con ReactJS.
 - Aprender a usar GitHub.
-- Crear una comunidad alrededor del sitio web.
 
 ## Getting Started with Create React App
 
